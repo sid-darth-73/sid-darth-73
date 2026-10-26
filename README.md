@@ -2,19 +2,8 @@
 
 ## Hello there, I am Siddharth Raj
 
-#### Bio
-I am a B.Tech student in **Computer Science & Engineering** at **BIT Mesra** with a passion for building high-performance systems and applications in the domains that I find interesting.
-
 ---
 
-#### Personal:
-
-1. [Cubey](https://github.com/sid-darth-73/cubey) - A **Speedcubing** platform that allows cubers to record single solves and averages, visualize cube states, and train on specific algorithms with a **public profile** to share personal solve statistics aiming to hit the social elements of the hobby.
-2. [Compareforces](https://github.com/sid-darth-73/compareForces) - A platform for competitive programmers to compare **Codeforces** profiles and analyze problem-solving and getting comparison insights from an LLM with a LangGraph workflow
-3. [Clist automation plugin](https://github.com/sid-darth-73/problem-rating-extension) - An extension that automates the task of looking up problem details on clist. Currently compatible with Leetcode and codeforces
-#### Volunteering
-
-- [Explorify trips](https://github.com/Explorify-market-place)
 <!---
 sid-darth-73/sid-darth-73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
